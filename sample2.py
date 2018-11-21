@@ -10,3 +10,8 @@ plt.plot(x, y)
 cos_x = np.cos(x)
 sin_x = np.sin(x)
 plt.plot(cos_x, sin_x)
+
+
+
+'H'.encode().hex()
+bytes.fromhex(H.encode())
