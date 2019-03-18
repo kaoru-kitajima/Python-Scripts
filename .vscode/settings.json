@@ -4,7 +4,7 @@
     "python.linting.pep8Enabled": false,
     "python.linting.mypyEnabled": false,
     "editor.formatOnSave": true,
-    "python.formatting.autopep8Path": "C:\\Users\\kaoru\\Anaconda3\\envs\\sample\\Scripts\\pep8",
+    "python.formatting.autopep8Path": "pep8",
     "editor.formatOnType": true,
     "editor.formatOnPaste": true,
     "python.linting.pydocstyleEnabled": false,
