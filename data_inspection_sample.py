@@ -6,7 +6,6 @@ import numpy as np
 import pandas as pd
 
 data_path = os.curdir
-print(data_path)
 train_file_name = "train_backup.csv"
 test_file_name = "test_backup.csv"
 gender_submission_file_name = "gender_submission_backup.csv"
